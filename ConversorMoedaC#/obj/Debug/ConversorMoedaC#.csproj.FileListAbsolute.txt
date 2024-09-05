@@ -1,0 +1,10 @@
+C:\Users\sanmg\source\repos\ConversorMoedaC#\bin\Debug\ConversorMoedaC#.exe.config
+C:\Users\sanmg\source\repos\ConversorMoedaC#\bin\Debug\ConversorMoedaC#.exe
+C:\Users\sanmg\source\repos\ConversorMoedaC#\bin\Debug\ConversorMoedaC#.pdb
+C:\Users\sanmg\source\repos\ConversorMoedaC#\obj\Debug\ConversorMoedaC#.csproj.AssemblyReference.cache
+C:\Users\sanmg\source\repos\ConversorMoedaC#\obj\Debug\ConversorMoedaC_.Form1.resources
+C:\Users\sanmg\source\repos\ConversorMoedaC#\obj\Debug\ConversorMoedaC_.Properties.Resources.resources
+C:\Users\sanmg\source\repos\ConversorMoedaC#\obj\Debug\ConversorMoedaC#.csproj.GenerateResource.cache
+C:\Users\sanmg\source\repos\ConversorMoedaC#\obj\Debug\ConversorMoedaC#.csproj.CoreCompileInputs.cache
+C:\Users\sanmg\source\repos\ConversorMoedaC#\obj\Debug\ConversorMoedaC#.exe
+C:\Users\sanmg\source\repos\ConversorMoedaC#\obj\Debug\ConversorMoedaC#.pdb
